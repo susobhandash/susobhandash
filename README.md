@@ -7,6 +7,8 @@
 
 ![Susobhan's Github contribution stats](https://github-readme-activity-graph.vercel.app/graph?username=susobhandash&theme=react-dark)
 
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=susobhandash&theme=jolly&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>
+
 <!---
 susobhandash/susobhandash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
